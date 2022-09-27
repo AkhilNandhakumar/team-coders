@@ -43,5 +43,5 @@ The following bullets are goals we are trying to achieve:
 ## Project History:
 This project begun at the middle of Del Norte's first trimester. Written in HTML, CSS, JavaScript, and Java 
 
-### [Website Wireframe Version 1.1](https://coggle.it/diagram/YzMaoECwZkiUPW9m/t/landing-page-index-html)
+### [Website Wireframe Version 1.0](https://coggle.it/diagram/YzMaoECwZkiUPW9m/t/landing-page-index-html)
 
