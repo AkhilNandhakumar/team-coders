@@ -3,17 +3,13 @@
 ## Table of Contents
 
 
-* [Overview](https://github.com/TristanCopley/photoboard/blob/master/README.md#overview)
-  * [Our Purpose](https://github.com/TristanCopley/photoboard/blob/master/README.md#our-purpose)
-  * [Project Key Goals](https://github.com/TristanCopley/photoboard/blob/master/README.md#project-key-goals)
-  * [Project Requirements](https://github.com/TristanCopley/photoboard/blob/master/README.md#project-requirements)
-  * [Project History](https://github.com/TristanCopley/photoboard/blob/master/README.md#project-history)
- 
- 
-* [Development](https://github.com/TristanCopley/photoboard/blob/master/README.md#development-schedule-and-timebox)
-  * [Wireframe](https://github.com/TristanCopley/photoboard/blob/master/README.md#website-wireframe-version-11)
-  * [Timebox](https://github.com/TristanCopley/photoboard/blob/master/README.md#development-schedule-and-timebox)
-  * [Contributors](https://github.com/TristanCopley/photoboard/blob/master/README.md#contributors)
+* [Overview](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#overview)
+  * [Our Purpose](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#our-purpose)
+  * [Project Key Goals](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#project-key-goals)
+  * [Project Requirements](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#project-requirements)
+  * [Project History](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#project-history)
+
+  * [Wireframe](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#website-wireframe-version-11)
 
 
 ## Overview
