@@ -27,9 +27,9 @@ The following bullets are goals we are trying to achieve:
 * Speed
   * Everything is coded with minimal libraries allowing for complete optimzation and speed control
 * Usabilty
-  * We want anyone who takes interest in photography or just digital images to use Photoboard
+  * We want anyone who takes a CS class at Del Norte to be able to use this website
 * Fun!
-  * We want those who use Photoboard to leave smiling!
+  * We want those who use this website to leave smiling!
  
  ## Project Requirements 
 
