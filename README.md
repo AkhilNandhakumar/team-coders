@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-
 * [Overview](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#overview)
   * [Our Purpose](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#our-purpose)
   * [Project Key Goals](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#project-key-goals)
