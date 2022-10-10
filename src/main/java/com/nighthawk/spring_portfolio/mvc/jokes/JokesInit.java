@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
-import org.springframework.context.annotation.Bean;
+// import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 @Component // Scans Application for ModelInit Bean, this detects CommandLineRunner
@@ -13,7 +13,7 @@ public class JokesInit {
     // Inject repositories
     @Autowired JokesJpaRepository repository;
     
-    @Bean
+    //@Bean
     CommandLineRunner run() {  // The run() method will be executed after the application starts
         return args -> {
             // Fail safe data validations
