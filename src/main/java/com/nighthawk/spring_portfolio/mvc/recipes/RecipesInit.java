@@ -20,24 +20,17 @@ public class RecipesInit {
 
             // starting jokes
             final String[] recipesArray = {
-                "If you give someone a program... you will frustrate them for a day; if you teach them how to program... you will frustrate them for a lifetime.",
-                "Q: Why did I divide sin by tan? A: Just cos.",
-                "UNIX is basically a simple operating system... but you have to be a genius to understand the simplicity.",
-                "Enter any 11-digit prime number to continue.",
-                "If at first you don't succeed; call it version 1.0.",
-                "Java programmers are some of the most materialistic people I know, very object-oriented",
-                "The oldest computer can be traced back to Adam and Eve. It was an apple but with extremely limited memory. Just 1 byte. And then everything crashed.",
-                "Q: Why did Wi-Fi and the computer get married? A: Because they had a connection",
-                "Bill Gates teaches a kindergarten class to count to ten. 1, 2, 3, 3.1, 95, 98, ME, 2000, XP, Vista, 7, 8, 10.",
-                "Q: What’s a aliens favorite computer key? A: the space bar!",
-                "There are 10 types of people in the world: those who understand binary, and those who don’t.",
-                "If it wasn't for C, we’d all be programming in BASI and OBOL.",
-                "Computers make very fast, very accurate mistakes.",
-                "Q: Why is it that programmers always confuse Halloween with Christmas? A: Because 31 OCT = 25 DEC.",
-                "Q: How many programmers does it take to change a light bulb? A: None. It’s a hardware problem.",
-                "The programmer got stuck in the shower because the instructions on the shampoo bottle said: Lather, Rinse, Repeat.",
-                "Q: What is the biggest lie in the entire universe? A: I have read and agree to the Terms and Conditions.",
-                "An SQL statement walks into a bar and sees two tables. It approaches, and asks may I join you?"
+                "Classic Shrimp Scampi: https://www.foodnetwork.com/recipes/food-network-kitchen/classic-shrimp-scampi-8849846",
+                "Ground Turkey Enchilada Stir-Fry: https://www.foodnetwork.com/recipes/ground-turkey-enchilada-stir-fry-with-couscous-3416321",
+                "Tricolore Stuffed Pork: https://www.foodnetwork.com/recipes/giada-de-laurentiis/tricolore-stuffed-pork-3549235",
+                "Chamomile French Toast: https://www.foodnetwork.com/recipes/geoffrey-zakarian/chamomile-french-toast-3715601",
+                "Cuban Picadillo: https://www.foodnetwork.com/recipes/ingrid-hoffmann/cuban-picadillo-recipe-2047190",
+                "Mocha Mousse Pie: https://www.foodnetwork.com/recipes/food-network-kitchen/mocha-mousse-pie-3562562",
+                "Pumpkin Crumble: https://www.foodnetwork.com/recipes/food-network-kitchen/pumpkin-crumble-3561621",
+                "Parker House Rolls: https://www.foodnetwork.com/recipes/food-network-kitchen/parker-house-rolls-with-sea-salt-recipe-2043484",
+                "Curried Chicken Thighs: https://www.foodnetwork.com/recipes/curried-chicken-thighs-recipe-1957943",
+                "Chocolate Mousse: https://www.foodnetwork.com/recipes/food-network-kitchen/the-best-chocolate-mousse-8612586",
+                "Pumpkin Bread Pudding: https://www.foodnetwork.com/recipes/bobby-flay/pumpkin-bread-pudding-with-spicy-caramel-apple-sauce-and-vanilla-bean-creme-anglaise-recipe-1922571",
             };
 
             // make sure Joke database is populated with starting jokes

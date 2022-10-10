@@ -39,7 +39,7 @@ public class RecipesApiController {
         Optional<Recipes> optional = repository.findById(id);
         if (optional.isPresent()) {  // Good ID
             Recipes recipe = optional.get();  // value from findByID
-            recipe.setHaha(recipe.getHaha()+1); // increment value
+            recipe.setYummy(recipe.getYummy()+1); // increment value
             repository.save(recipe);  // save entity
             return new ResponseEntity<>(recipe, HttpStatus.OK);  // OK HTTP response: status code, headers, and body
         }
@@ -54,7 +54,7 @@ public class RecipesApiController {
         Optional<Recipes> optional = repository.findById(id);
         if (optional.isPresent()) {  // Good ID
             Recipes recipe = optional.get();
-            recipe.setBoohoo(recipe.getBoohoo()+1);
+            recipe.setYucky(recipe.getYucky()+1);
             repository.save(recipe);
             return new ResponseEntity<>(recipe, HttpStatus.OK);
         }

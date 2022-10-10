@@ -18,6 +18,6 @@ public class Recipes {
     @Column(unique=true)
     private String recipe;
 
-    private int haha;
-    private int boohoo;
+    private int yummy;
+    private int yucky;
 }
