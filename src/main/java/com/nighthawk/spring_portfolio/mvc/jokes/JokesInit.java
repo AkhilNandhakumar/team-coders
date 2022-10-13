@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
-// import org.springframework.context.annotation.Bean;
+//import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 @Component // Scans Application for ModelInit Bean, this detects CommandLineRunner
@@ -45,6 +45,7 @@ public class JokesInit {
                 List<Jokes> test = repository.findByJokeIgnoreCase(joke);  // JPA lookup
                 if (test.size() == 0)
                     repository.save(new Jokes(null, joke)); //JPA save
+                    repository.deleteAll();
             }
             
         };

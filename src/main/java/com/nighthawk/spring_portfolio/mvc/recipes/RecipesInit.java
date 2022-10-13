@@ -36,8 +36,10 @@ public class RecipesInit {
             // make sure Joke database is populated with starting jokes
             for (String recipe : recipesArray) {
                 List<Recipes> test = repository.findByRecipeIgnoreCase(recipe);  // JPA lookup
+               
                 if (test.size() == 0)
                     repository.save(new Recipes(null, recipe, 0, 0)); //JPA save
+                    // repository.deleteAll();
             }
             
         };
