@@ -1,47 +1,28 @@
-# CSA-Site (wip name)
-
-## Table of Contents
-
-* [Overview](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#overview)
-  * [Our Purpose](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#our-purpose)
-  * [Project Key Goals](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#project-key-goals)
-  * [Project Requirements](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#project-requirements)
-  * [Project History](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#project-history)
-
-  * [Wireframe](https://github.com/AkhilNandhakumar/team-coders/blob/master/README.md#website-wireframe-version-11)
+## TBD [Spring Portfolio Starter](https://nighthawkcodingsociety.com/projectsearch/details/Spring%20Portfolio%20Starter)
+Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
 
 
-## Overview
-Our website will allow for anyone with an account to create a virtual classroom and allow their students to join, send messages, respond to announcements, and submit assignments. Anyone, regardless of if they have an account, can join an active classroom if they join with the correct code (Like Kahoot). Ontop of this, those who are in an active classroom can write comments on other people's posts/assignments to discuss their creative experiences.
 
-## Our Purpose:
-This project was created to help the CompSci classes share and discuss their work in a fast and easy manner. Inspired by Padlet/Google Classroom, this should the teacher organize all of their course material, assignments, and announcemnets in one place, and recieve submissions from students. 
-
-## Project Key Goals
-The following bullets are goals we are trying to achieve:
-
-* Ease and accessibility
-  * Anyone with a browser can join 
-  * Anyone with an account can join as an admin and create a class
-* Speed
-  * Everything is coded with minimal libraries allowing for complete optimzation and speed control
-* Usabilty
-  * We want anyone who takes a CS class at Del Norte to be able to use this website
-* Fun!
-  * We want those who use this website to leave smiling!
- 
- ## Project Requirements 
-
-* A login for his students
-* A login for the teacher
-* Section to organize all course material for CompSci
-* Allow access for the students to view all the course materials.
-* Teacher can make assignments and announcements
-* Teacher can manage multiple classrooms
-
-## Project History:
-This project begun at the middle of Del Norte's first trimester. Written in HTML, CSS, JavaScript, and Java 
-
-### [Website Wireframe Version 1.0](https://coggle.it/diagram/YzMaoECwZkiUPW9m/t/landing-page-index-html)
+## Visual thoughts
+#### * Starter code should be fun and practical
+#### * Organize with Bootstrap menu 
+#### * Add some color and fun through VANTA Visuals (birds, halo, solar, net)
+#### * Show some practical and fun links (hrefs) like Twitter, Git, Youtube
+#### * Show student project specific links (hrefs) per page
+#### * Show student TPT ideas
+#### * Show student About me pages
 
 
+
+## Getting started
+#### * Clone project to IntelliJ
+#### * Verify Project Structure to use a good Java JDK (adopt-openJ9-15) 
+#### * Play or entry point is Main.java, look for play option in tray.  This file eanbles Spring to load
+#### * Java source (src/main/java) had Java files.  Find "controllers" path, these files enable HTTP route and HTML file relationship.  Note, html 
+#### * HTML source (src/main/resources) had templates and supporting files.  Find index.html as this file is launched by defaul in Spring.  Other HTML files are loaded by building a "@Controller"
+
+
+
+## IDE management
+#### * A ".gitignore" can teach a Developer a lot about Java runtime.  A target directory is created when you press play button, byte code is generated and files are moved into this location.
+#### * A "pom.xml" file can teach you a lot about Java dependencies.  This is similar to "requirements.txt" file in Python.  It manages packages and dependencies.
