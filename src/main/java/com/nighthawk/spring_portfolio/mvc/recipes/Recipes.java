@@ -17,7 +17,6 @@ public class Recipes {
 
     @Column(unique=true)
     private String recipe;
-
     private int yummy;
     private int yucky;
 }
