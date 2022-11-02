@@ -17,4 +17,17 @@ public class Questions {
 
     @Column(unique=true)
     private String question;
+
+	@Column(unique=true)
+	private String ans1;
+
+	@Column(unique=true)
+	private String ans2;
+
+	@Column(unique=true)
+	private String ans3;
+
+	@Column(unique=true)
+	private String ans4;
+
 }
