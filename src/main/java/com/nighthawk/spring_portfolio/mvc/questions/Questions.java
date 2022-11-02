@@ -1,4 +1,4 @@
-package com.nighthawk.spring_portfolio.mvc.recipes;
+package com.nighthawk.spring_portfolio.mvc.questions;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -10,13 +10,11 @@ import javax.persistence.*;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity // Annotation to simplify creating an entity, which is a lightweight persistence domain object. Typically, an entity represents a table in a relational database, and each entity instance corresponds to a row in that table.
-public class Recipes {
+public class Questions {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
     @Column(unique=true)
-    private String recipe;
-    private int yummy;
-    private int yucky;
+    private String question;
 }
