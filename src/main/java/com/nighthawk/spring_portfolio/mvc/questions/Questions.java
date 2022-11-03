@@ -15,19 +15,43 @@ public class Questions {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
-    @Column(unique=true)
+    @Column()
     private String question;
 
-	@Column(unique=true)
-	private String ans1;
+	@Column()
+	private String content1;
 
-	@Column(unique=true)
-	private String ans2;
+	@Column()
+	private String content2;
 
-	@Column(unique=true)
-	private String ans3;
+	@Column()
+	private String content3;
 
-	@Column(unique=true)
-	private String ans4;
+	@Column()
+	private String code1;
+	
+	@Column()
+	private String code2;
+
+	@Column()
+	private String hint;
+
+	@Column()
+	private String answer1;
+
+	@Column()
+	private String answer2;
+	
+	@Column()
+	private String answer3;
+
+	@Column()
+	private String answer4;
+	
+	@Column()
+	private String time;
+
+	@Column()
+	private String points;
 
 }
